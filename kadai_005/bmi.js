@@ -1,3 +1,4 @@
 let fat = 68;
 let height = 1.7
-console.log(fat / (height * height));
+let bmi = fat / (height * height)
+console.log(bmi);
