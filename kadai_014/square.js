@@ -1,5 +1,5 @@
-const log = (num) => {
-    console.log(num * num);
+const power = (num) => {
+    return num * num;
 }
+console.log(power(10));
 
-log(10);
